@@ -10,3 +10,7 @@ Answer: It can be used in advertising, to gather data on trends and consumer pre
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing will overwrite a brach's history and merging preserves history of both branches.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about data sceince.
